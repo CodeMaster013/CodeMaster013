@@ -29,8 +29,6 @@
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/github-actions/github-actions.png" alt="GitHub Actions" /></code>
 
 ---
 
