@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I’m a **hobby programmer** who loves experimenti
 
 ## 📚 Other Notable Projects
 
-- [FinicLitGame](https://github.com/CodeMaster013/FinicLitGame) – A TypeScript project for interactive fiction or gaming
+- [FinicLitGame](https://github.com/CodeMaster013/FinicLitGame) – A TypeScript project for a game-based financial literacy learning tool
 - [John-Discord-Bot](https://github.com/CodeMaster013/John-Discord-Bot) – Python-based Discord automation and fun
 - [home-server-stuff](https://github.com/CodeMaster013/home-server-stuff) – Experimenting with servers and self-hosted tools
 
