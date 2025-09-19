@@ -1,6 +1,6 @@
 # 👋 Hi, I’m CodeMaster013!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codemaster013&show_icons=true&theme=transparent)
+![CodeMaster013's GitHub stats](https://github-readme-stats.vercel.app/api?username=codemaster013&show_icons=true&theme=transparent)
 
 Welcome to my GitHub profile! I’m a **hobby programmer** who loves experimenting with technology, building creative tools, and bringing stories to life.
 
