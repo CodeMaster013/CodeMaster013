@@ -1,33 +1,26 @@
-# Hi, I’m CodeMaster013!
+# Hi there, I'm CodeMaster013
 
 ![CodeMaster013's GitHub stats](https://github-readme-stats.vercel.app/api?username=codemaster013&show_icons=true&theme=transparent)
 
-Welcome to my GitHub profile! I’m a **hobby programmer** who loves experimenting with technology, building creative tools, and bringing stories to life.
+I'm a hobby programmer tinkering with code and tech in my free time. I run Arch Linux with Hyprland for a sleek, customized workflow. My main stack includes Python for backend and scripting, React for building interactive UIs, and Vite for blazing-fast web development.
 
-## Top Skills & Technologies
+## Tools & Workflow
 
-- **Python** (automation, bots, backend)
-- **TypeScript** (project organization, creative apps)
-- **React & Vite** (modern web development)
-- Always exploring new frameworks and tools!
-
-## Featured Projects
-
-- [**Campaign-lore**](https://github.com/CodeMaster013/Campaign-lore):  
-  A TypeScript-powered project for organizing, storing, and managing campaign lore, story elements, and worldbuilding notes—ideal for tabletop RPGs, collaborative storytelling, or creative writing.
+- **Editor**: LazyVim (Neovim config)
+- **Version Control**: git, lazygit
+- **OS/WM**: Arch Linux + Hyprland
+- **Other Tools**: I regularly experiment with new utilities and plugins to enhance my workflow.
 
 ## Interests
 
-- **Dungeons & Dragons** (and all things tabletop RPG)
-- Exploring the latest in **technology** & automation
+- Software development & open source
+- Building web apps and automation tools
+- Tabletop gaming (DND enthusiast)
 
-## Other Notable Projects
+## Projects
 
-- [FinicLitGame](https://github.com/CodeMaster013/FinicLitGame) – A TypeScript project for a game-based financial literacy learning tool
-- [John-Discord-Bot](https://github.com/CodeMaster013/John-Discord-Bot) – Python-based Discord automation and fun
-- [home-server-stuff](https://github.com/CodeMaster013/home-server-stuff) – Experimenting with servers and self-hosted tools
+I enjoy building side projects—ranging from automation scripts and web apps to custom DND utilities. You’ll find my experiments and learning journeys scattered across my repositories.
 
----
+## Connect
 
-Thanks for stopping by!  
-Feel free to check out my repositories and see what I’m working on next.
+Feel free to check out my code, open issues, or contribute ideas!
